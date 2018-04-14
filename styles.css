@@ -1,0 +1,58 @@
+/* Trading card CSS */
+.main_border {
+    background-color: lemonchiffon;
+    width: 325px;
+    border: 2px solid lightgrey;
+    padding: 2px;
+    margin: 10px;
+    /*text-shadow: 2px 2px 4px #000000;*/
+    box-shadow: 5px 5px 12px #ccc;
+}
+
+.Image{
+    width: 300px;
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+#heading{
+    padding-left: 10px;
+}
+
+.internal_border {
+    background-color: lemonchiffon;
+    width: 300px;
+    border: 2px solid lightgray;
+    
+    margin: 10px;
+    /*text-shadow: 2px 2px 4px #000000;*/
+}
+
+.fact{
+    font-style: italic;
+    padding:4px;
+    margin:10px 5px 5px 5px;
+    border:3px groove white;
+}
+
+.dots{
+    list-style-type: none;
+}
+
+.label{
+    font-weight: bold;
+}
+
+.item{
+    font-weight: normal;
+    text-align: left;
+    padding:3px;
+}
+
+.desc{
+    padding: 4px;
+}
+
+
